@@ -9,6 +9,6 @@
   
   https://www.oex.com/api/ticker/all?mk_type=cnyt
   
-  
-
++ request method 
+  GET
 
