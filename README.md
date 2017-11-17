@@ -5,6 +5,7 @@
 
 + api url 
   https://www.oex.com/api/ticker/all?mk_type=btc
+  
   https://www.oex.com/api/ticker/all?mk_type=cnyt
   
   
